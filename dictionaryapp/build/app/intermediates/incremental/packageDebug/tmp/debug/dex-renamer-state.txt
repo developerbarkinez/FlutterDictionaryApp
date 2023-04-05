@@ -1,0 +1,4 @@
+#Wed Apr 05 21:11:33 TRT 2023
+base.0=/Users/barkintosh/Desktop/flutterproje/dictionaryapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
